@@ -1,0 +1,25 @@
+.subtotal {
+   display: flex;
+   flex-direction: column;
+}
+.subtotal__gift {
+   display: flex;
+   align-items: center;
+}
+.subtotal__gift > input {
+   margin-right: 5px;
+}
+
+.subtotal > button {
+   background-color: #ffd814;
+   border-style: none;
+   font-weight: 400;
+   width: 100%;
+   height: 30px;
+   margin-top: 10px;
+   border-radius: 8px;
+   cursor: pointer;
+}
+.subtotal > button :hover {
+   background-color: #bc9e0a;
+}
