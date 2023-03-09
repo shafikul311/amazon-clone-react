@@ -1,6 +1,8 @@
 .subtotal {
    display: flex;
    flex-direction: column;
+   width: 450px;
+   margin-left: 10px;
 }
 .subtotal__gift {
    display: flex;
