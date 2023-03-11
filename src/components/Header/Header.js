@@ -30,7 +30,7 @@ function Header() {
          <Link to="/">
             <img
                className="header__logo"
-               src="https://m.media-amazon.com/images/G/31/social_share/amazon_logo._CB633266945_.png"
+               src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
                alt=""
             />
          </Link>
@@ -40,16 +40,16 @@ function Header() {
             <SearchIcon className="header__searchIcon" />
          </div>
          <div className="header__nav">
-            <Link to="signUp">
+            <Link to="signup">
                <div className="header__option">
                   <span className="header__optionLineOne">
                      Hello' {user ? user.email : "Guest"}
                   </span>
                   <span className="header__optionLineTwo">
                      {user ? (
-                        <button onClick={handelSignOut}>Sign OUt</button>
+                        <button onClick={handelSignOut}>Sign Out</button>
                      ) : (
-                        <Link to="/signUp">
+                        <Link to="signup">
                            <button>Sign In</button>
                         </Link>
                      )}
@@ -66,7 +66,7 @@ function Header() {
                <span className="header__optionLineOne">Your</span>
                <span className="header__optionLineTwo">& prime</span>
             </div>
-            <Link to="/checkout">
+            <Link to="checkout">
                <div className="header__optionBasket">
                   <ShoppingCartCheckoutIcon />
                   <span className="header__optionBasketCount">
