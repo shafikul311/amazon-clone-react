@@ -6,3 +6,5 @@ The Amazon clone react js
 **Client:** React, Context api, useReducer, React router dom- React Hooks
 
 **Server:** 
+
+**Live-Link:** https://amazoncom-shop.netlify.app/
