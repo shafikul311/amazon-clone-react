@@ -6,5 +6,7 @@ The Amazon clone react js
 **Client:** React, Context api, useReducer, React router dom- React Hooks
 
 **Server:** 
+**Features:** Add product cart, Remove Product in cart
 
-**Live-Link:** https://amazoncom-shop.netlify.app/
+**Live-Link:** https://clone-a351a.firebaseapp.com/
+
