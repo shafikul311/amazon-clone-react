@@ -1,7 +1,6 @@
-# Project Title
+# The Amazon clone react js 
 
-The Amazon clone react js 
-## Tech Stack
+### Tech Stack
 
 **Client:** React, Context api, useReducer, React router dom- React Hooks
  
