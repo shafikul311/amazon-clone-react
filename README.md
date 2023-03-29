@@ -2,9 +2,9 @@
 
 ### Tech Stack
 
-**Client:** React, Context api, useReducer, React router dom- React Hooks
+**Client:** React, Context api, useReducer, React router dom- React Hooks 
  
-**Features:** Add product cart, Remove Product in cart, Email & password signIn authentication 
+**Features:** Add product cart, Remove Product in cart, Email & password signIn authentication *
 
 **Live-Link:** https://clone-a351a.firebaseapp.com/
 
